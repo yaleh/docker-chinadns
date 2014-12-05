@@ -1,4 +1,4 @@
-docker-shadowsocks
+docker-chinadns
 ==================
 
 This Dockerfile builds an image with https://github.com/clowwindy/ChinaDNS.
